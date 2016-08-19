@@ -1,0 +1,1 @@
+This is the spark version of assignment 5 problem. For decile calculation problem, I sorted the series to be calculated instead of making frequency table as in the hadoop streaming approach. For regression problem, I used MLLIB which is a very popular machine learning toolbox in Spark.

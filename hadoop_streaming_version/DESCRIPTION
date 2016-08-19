@@ -1,0 +1,2 @@
+This is the hadoop version of problems in assignment5. For decile calculation problem, I directly used mapreduce to solve. For regression problem, I firstly used hive to combine two sets then did the regression.
+This approach is much faster than R version of approach. 
