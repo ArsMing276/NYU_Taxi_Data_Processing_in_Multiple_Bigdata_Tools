@@ -1,6 +1,6 @@
 # NYU_Taxi_Data_Processing_in_Multiple_Bigdata_Tools
 
-This is the second project focusing on big data. In this project, I tried several different approaches and tools to finish the same tasks on a big data set, and compared their performance. 
+In this project, I tried several different approaches and tools to finish the same tasks on a big data set, and compared their performance. 
 
 In detail, Implemented two tasks (Calculated Deciles and Fitted Linear Regression) with NYU Taxi Trips Data. The data is more
 than 56G, it's website is http://www.andresmh.com/nyctaxitrips/
